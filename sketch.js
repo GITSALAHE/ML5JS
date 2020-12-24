@@ -7,7 +7,7 @@ let status;
 
 function setup() {
   createCanvas(640, 420);
-  img = createImg('dog.jpg', imageReady);
+  img = createImg('cars.jpg', imageReady);
   img.hide();
   img.size(640, 420);
 
